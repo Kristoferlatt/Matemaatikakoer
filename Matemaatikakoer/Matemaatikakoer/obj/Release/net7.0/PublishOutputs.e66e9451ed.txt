@@ -1,0 +1,11 @@
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/bin/Release/net7.0/publish/Matemaatikakoer
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/bin/Release/net7.0/publish/Matemaatikakoer.dll
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/bin/Release/net7.0/publish/Matemaatikakoer.deps.json
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/bin/Release/net7.0/publish/Matemaatikakoer.runtimeconfig.json
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/bin/Release/net7.0/publish/Matemaatikakoer.pdb
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/bin/Release/net7.0/publish/Carbon.Data.Protection.dll
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/bin/Release/net7.0/publish/Carbon.Packaging.dll
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/bin/Release/net7.0/publish/Carbon.Storage.dll
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/bin/Release/net7.0/publish/Carbon.VersionControl.dll
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/bin/Release/net7.0/publish/Carbon.Versioning.dll
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/bin/Release/net7.0/publish/GitHub.dll

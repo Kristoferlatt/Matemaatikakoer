@@ -1,0 +1,15 @@
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/bin/Debug/net7.0/Matemaatikakoer
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/bin/Debug/net7.0/Matemaatikakoer.deps.json
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/bin/Debug/net7.0/Matemaatikakoer.runtimeconfig.json
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/bin/Debug/net7.0/Matemaatikakoer.dll
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/bin/Debug/net7.0/Matemaatikakoer.pdb
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/obj/Debug/net7.0/Matemaatikakoer.csproj.AssemblyReference.cache
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/obj/Debug/net7.0/Matemaatikakoer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/obj/Debug/net7.0/Matemaatikakoer.AssemblyInfoInputs.cache
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/obj/Debug/net7.0/Matemaatikakoer.AssemblyInfo.cs
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/obj/Debug/net7.0/Matemaatikakoer.csproj.CoreCompileInputs.cache
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/obj/Debug/net7.0/Matemaatikakoer.dll
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/obj/Debug/net7.0/refint/Matemaatikakoer.dll
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/obj/Debug/net7.0/Matemaatikakoer.pdb
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/obj/Debug/net7.0/Matemaatikakoer.genruntimeconfig.cache
+/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/obj/Debug/net7.0/ref/Matemaatikakoer.dll

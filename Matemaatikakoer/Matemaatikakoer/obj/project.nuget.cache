@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eqzds6qTMuPJoCukk1X/jURN4+wobfZ+RDsBHOCJfIDfMlHLHj3NP5S6P5DHlIm5okYPCgsMRoGEn5qUZawk2Q==",
+  "success": true,
+  "projectFilePath": "/Users/kristoferlatt/Projects/Matemaatikakoer/Matemaatikakoer/Matemaatikakoer.csproj",
+  "expectedPackageFiles": [
+    "/Users/kristoferlatt/.nuget/packages/carbon.data.protection/1.5.0/carbon.data.protection.1.5.0.nupkg.sha512",
+    "/Users/kristoferlatt/.nuget/packages/carbon.packaging/1.50.0/carbon.packaging.1.50.0.nupkg.sha512",
+    "/Users/kristoferlatt/.nuget/packages/carbon.storage/3.0.1/carbon.storage.3.0.1.nupkg.sha512",
+    "/Users/kristoferlatt/.nuget/packages/carbon.versioncontrol/2.6.0/carbon.versioncontrol.2.6.0.nupkg.sha512",
+    "/Users/kristoferlatt/.nuget/packages/carbon.versioning/2.0.1/carbon.versioning.2.0.1.nupkg.sha512",
+    "/Users/kristoferlatt/.nuget/packages/github/1.34.0/github.1.34.0.nupkg.sha512"
+  ],
+  "logs": []
+}
